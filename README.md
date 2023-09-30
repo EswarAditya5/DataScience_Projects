@@ -22,6 +22,7 @@ Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 | Category | Project Name | Link |
 |-------|--|-------|
 | Time Series Analysis | Project_Air_Traffic_Passenger | [Link to project](https://github.com/EswarAditya5/Project_Air_Traffic_Passengers_Time_Series) |
+
 <!--
 [Kaggle](https://www.kaggle.com/fiq423ubf)
 | Category | Project Name | Link |
