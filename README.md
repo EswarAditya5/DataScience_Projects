@@ -18,7 +18,7 @@ I encourage you to take your time to browse through the projects, explore their 
 Your presence here is valued, and I'm excited to have you on this journey. Please enjoy your visit, and if you have any questions, ideas, or contributions, don't hesitate to reach out.
 
 Warm regards,
-Eswar Aditya [LinkedIn](https://www.linkedin.com/in/)
+Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 <!--
 [Kaggle](https://www.kaggle.com/fiq423ubf)
 | Category | Project Name | Link |
