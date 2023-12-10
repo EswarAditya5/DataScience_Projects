@@ -28,19 +28,3 @@ Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 | Time Series Analysis | Project_Air_Traffic_Passenger | [Link to project](https://github.com/EswarAditya5/Project_Air_Traffic_Passengers_Time_Series) |
 
 
-<!--
-[Kaggle](https://www.kaggle.com/fiq423ubf)
-| Category | Project Name | Link |
-|-------|--|-------|
-| Regression     | Project1_MPG_Prediction             | [Link to Project](https://github.com/Makorg123/Project1_MPG_Prediction) |
-|                | Project2_House_Price_Prediction     | [Link to Project](https://github.com/Makorg123/Project2_House_Price_Prediction) |
-| Classification | Project3_Loan_Prediction_Classifier | [Link to Project](https://github.com/Makorg123/Project3_Loan_Prediction_Classifier) |
-|                | Project4_Financial_Classification   | [Link to Project](https://github.com/Makorg123/Project4_Financial_Classification) |
-| Time Series Analysis | Project5_Chicago_Taxi_Trip   | [Link to Project](https://github.com/Makorg123/Project5_Chicago_Taxi_Trips_Time_Series) |
-|                | Project6_San Fransisco_Air_Traffic_Passenger |[Link to Project](https://github.com/Makorg123/Project6_Air_Traffic_Passengers_Time_Series/tree/main)|
-| Natural Language Processing | Project7_NLP_Tweet_Mining | [Link to Project](https://github.com/Makorg123/Project7_NLP_Tweet_Mining) |
-|                | Project8_IMDB_Movies_Reviews_Clustering | [Link to Project](https://github.com/Makorg123/Project8_IMDB_Movies_Reviews_Clustering)|
-|                | Project9_Medicare_with_NLP           | [Link to Project](https://github.com/Makorg123/Project9_Medicare_with_NLP) |
-| Deep Learning  | Project10_MNIST_Digit_Classification | [Link to Project](https://github.com/Makorg123/Project10_MNIST_Digit_Classification)|
-|                | Project11_Dog_Vs_Cat_Classification  | [Link to Project](https://github.com/Makorg123/Project11_Dog_Vs_Cat_Classification)|
--->
