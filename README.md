@@ -22,9 +22,11 @@ Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 | Category | Project Name | Link |
 |-------|--|-------|
 | Regression | Project_House_Price_Prediction | [Link to Project](https://github.com/EswarAditya5/Project_House_Price_Prediction) |
-|            | Project_MPG_Prediction | [Link to Project](https://github.com/EswarAditya5/Project_MPG_Prediction) |                
+|            | Project_MPG_Prediction | [Link to Project](https://github.com/EswarAditya5/Project_MPG_Prediction) |  
+|            | Project_Black_Friday_Sales| [Link to Projecct]()|
 | Classification | Project_HR_Analytics | [Link to Project](https://github.com/EswarAditya5/Project_HR_Analytics) |
 |                | Project_Shot_Learning | [Link to Project](https://github.com/EswarAditya5/Project_Flu_Shot_Learning) |
-| Time Series Analysis | Project_Air_Traffic_Passenger | [Link to project](https://github.com/EswarAditya5/Project_Air_Traffic_Passengers_Time_Series) |
+| Time Series Analysis | Project_Air_Traffic_Passenger | [Link to Project](https://github.com/EswarAditya5/Project_Air_Traffic_Passengers_Time_Series) |
+| Natural Language Processing|||
 
 
