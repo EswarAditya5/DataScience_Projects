@@ -27,6 +27,6 @@ Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 | Classification | Project_HR_Analytics | [Link to Project](https://github.com/EswarAditya5/Project_HR_Analytics) |
 |                | Project_Shot_Learning | [Link to Project](https://github.com/EswarAditya5/Project_Flu_Shot_Learning) |
 | Time Series Analysis | Project_Air_Traffic_Passenger | [Link to Project](https://github.com/EswarAditya5/Project_Air_Traffic_Passengers_Time_Series) |
-| Natural Language Processing|||
+| Natural Language Processing (NLP)|||
 
 
