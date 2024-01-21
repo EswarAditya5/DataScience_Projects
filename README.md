@@ -23,10 +23,13 @@ Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 |-------|--|-------|
 | Regression | Project_House_Price_Prediction | [Link to Project](https://github.com/EswarAditya5/Project_House_Price_Prediction) |
 |            | Project_MPG_Prediction | [Link to Project](https://github.com/EswarAditya5/Project_MPG_Prediction) |  
-|            | Project_Black_Friday_Sales| [Link to Projecct]()|
+|            | Project_Black_Friday_Sales| [Link to Projecct](https://github.com/EswarAditya5/Black_Friday_Sales_Prediction) |
+|            | Project_NYC_Green_taxi|[Link to Project](https://github.com/EswarAditya5/Project_NYC_Green_taxi) |
 | Classification | Project_HR_Analytics | [Link to Project](https://github.com/EswarAditya5/Project_HR_Analytics) |
 |                | Project_Shot_Learning | [Link to Project](https://github.com/EswarAditya5/Project_Flu_Shot_Learning) |
+|                | Loan_Prediction| [Link to Project](https://github.com/EswarAditya5/Loan_Prediction) |
 | Time Series Analysis | Project_Air_Traffic_Passenger | [Link to Project](https://github.com/EswarAditya5/Project_Air_Traffic_Passengers_Time_Series) |
-| Natural Language Processing (NLP)|||
+| Natural Language Processing (NLP)|Project_Medicare_with_NLP|[Link to Project](https://github.com/EswarAditya5/Project_Medicare_With_NLP) |
+| Neural Network |||
 
 
