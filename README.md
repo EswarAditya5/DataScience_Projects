@@ -31,5 +31,6 @@ Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 | Time Series Analysis | Project_Air_Traffic_Passenger | [Link to Project](https://github.com/EswarAditya5/Project_Air_Traffic_Passengers_Time_Series) |
 | Natural Language Processing (NLP)|Project_Medicare_with_NLP|[Link to Project](https://github.com/EswarAditya5/Project_Medicare_With_NLP) |
 | Neural Network | Shoe_classification_by_CNN |[Link to Project](https://github.com/EswarAditya5/Shoe_Classification_by_CNN)|
+|                | social_Dilemma_Tweets_by_simpleRNN |[Link to project](https://github.com/EswarAditya5/Social_Dilemma_Tweets_by_RNN)|
 
 
