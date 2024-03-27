@@ -25,7 +25,6 @@ Eswar Aditya [LinkedIn](https://www.linkedin.com/in/eswar-aditya-912263211)
 |            | Project_MPG_Prediction | [Link to Project](https://github.com/EswarAditya5/Project_MPG_Prediction) |  
 |            | Project_Black_Friday_Sales| [Link to Projecct](https://github.com/EswarAditya5/Black_Friday_Sales_Prediction) |
 |            | Project_NYC_Green_taxi|[Link to Project](https://github.com/EswarAditya5/Project_NYC_Green_taxi) |
-|            | Stock_Market | [Link to Project](https://github.com/EswarAditya5/StockMarket) |
 | Classification | Project_HR_Analytics | [Link to Project](https://github.com/EswarAditya5/Project_HR_Analytics) |
 |                | Project_Shot_Learning | [Link to Project](https://github.com/EswarAditya5/Project_Flu_Shot_Learning) |
 |                | Loan_Prediction| [Link to Project](https://github.com/EswarAditya5/Loan_Prediction) |
